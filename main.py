@@ -2,7 +2,7 @@
 
 # Press ⌃R to execute it or replace it with your code.
 # Press Double ⇧ to search everywhere for classes, files, tool windows, actions, and settings.
-from days import day1, day2
+from days import day1, day2, day3
 
 
 def print_hi(name):
@@ -16,5 +16,6 @@ if __name__ == '__main__':
     print(day1.part2())
     print(day2.part1())
     print(day2.part2())
+    print(day3.part1())
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
